@@ -4,7 +4,12 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
+https://github.com/Imesh7/weather-app-react-native/assets/50042375/38d448fa-767e-4bfc-8bf6-ca5cf35a9441
+
 ## Step 1: Start the Metro Server
+
+
+
 
 First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
 
